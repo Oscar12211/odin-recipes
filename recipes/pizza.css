@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+
+img, button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto;
+}
+
+p, h1, h2, ol, ul {
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p, ol, ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
